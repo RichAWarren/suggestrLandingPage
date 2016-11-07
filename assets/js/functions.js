@@ -58,8 +58,8 @@ jQuery(document).ready(function($) {
 
         targetDate: {
             'day': 30,
-            'month': 10,
-            'year': 2016,
+            'month': 02,
+            'year': 2017,
             'hour': 0,
             'min': 0,
             'sec': 0
